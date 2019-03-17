@@ -29,6 +29,7 @@ public class Ex_35 {
             }
             if(i==999){
                saida(soma);
+               break;
             }
             i++;
         }
